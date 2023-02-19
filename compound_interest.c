@@ -1,4 +1,5 @@
 // Compound Interest Calculaiton
+// Author - @nischit_ig (Instagram)
 #include <stdio.h>
 #include <math.h>
 
